@@ -1,6 +1,7 @@
 <?php
 class Person {
     public $name;
+    public $age;
     public $gender;
     public $email;
     public $password;
